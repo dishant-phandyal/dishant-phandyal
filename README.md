@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm DISHANT PHANDYAL</h1>
-<h3 align="center">PERSUING B.TECH CS(AI/ML)</h3>
+<h1 align="center">Hi 👋, I'm </h1>
 <img  align= "right" alt="coding" width="1100" height="330" src ="img.png">.
+<h3 align="center">PERSUING B.TECH CS(AI/ML)</h3>
 
 <br>
 <br>
