@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 💬 Ask me about **C , C++ , HTML , CSS , JS ,**
+- 💬 Ask me about **C , C++ , HTML , CSS , JS , c#**
 
 - 📫 How to reach me **dishantphandyal04@gmail.com**
 
