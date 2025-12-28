@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **C , C++ , HTML , CSS , JS , c#**
 
+-  Also know  ** docker , git , python , .net framework **
+
 - 📫 How to reach me **dishantphandyal04@gmail.com**
 
 - ⚡ Fun fact **I THINK I AM FUNNY**
