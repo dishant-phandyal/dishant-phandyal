@@ -36,7 +36,7 @@
 
   <br><br>
 
-  <a href="https://github.com/dishant-phandyal/dishant-phandyal/blob/main/Resume.pdf">
+  <a href="https://github.com/dishant-phandyal/dishant-phandyal/blob/main/resume.pdf">
     <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Resume" />
   </a>
 
