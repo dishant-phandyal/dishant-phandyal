@@ -33,6 +33,6 @@
 
 | 🏆 Top Languages | 🔥 GitHub Streak |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dishant-phandyal&show_icons=true&locale=en&layout=compact&theme=radical&v=2" alt="Top Langs" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-phandyal&theme=radical" alt="GitHub Streak" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dishant-phandyal&show_icons=true&locale=en&layout=compact&theme=radical&hide=jupyter%20notebook,tex&exclude_repo=github-readme-stats,dishant-phandyal" alt="Top Langs" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-phandyal&theme=radical" alt="GitHub Streak" /> |
 
 </div>
