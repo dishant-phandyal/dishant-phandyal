@@ -32,7 +32,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/dishant-phandyal/dishant-phandyal/blob/main/Resume.pdf">
-    <img src="https://img.shields.io/badge/MY_CV-20232A?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=a676ff" height="40" alt="Resume" />
+    <img src="https://img.shields.io/badge/ACCESS_RESUME-FF007F?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="40" alt="Resume" />
   </a>
   <br><br>
 </div>
