@@ -31,13 +31,9 @@
 
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-phandyal&theme=radical" alt="GitHub Streak" />
-
-  <br><br>
-
+  <br>
   <a href="https://github.com/dishant-phandyal/dishant-phandyal/blob/main/resume.pdf">
-    <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Resume" />
+    <img src="https://img.shields.io/badge/View_My_Resume-FF5722?style=plastic&logo=adobe-acrobat-reader&logoColor=white&labelColor=232323" height="50" alt="Download Resume" />
   </a>
-
+  <br><br>
 </div>
