@@ -32,8 +32,12 @@
 
 <div align="center">
 
-| 🏆 Top Languages | 🔥 GitHub Streak |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dishant-phandyal&show_icons=true&locale=en&layout=compact&theme=radical&include_all_commits=true&count_private=true" alt="Top Langs" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-phandyal&theme=radical" alt="GitHub Streak" /> |
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-phandyal&theme=radical" alt="GitHub Streak" />
+
+  <br><br>
+
+  <a href="https://github.com/dishant-phandyal/dishant-phandyal/blob/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Resume" />
+  </a>
 
 </div>
