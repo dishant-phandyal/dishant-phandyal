@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dishantphandyal04@gmail.com**
 
-- ⚡ Fun fact **I THINK I AM FUNNY**
+- ⚡  **ALWAYS READY TO LEARN  NEW **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
