@@ -38,7 +38,7 @@
   <br><br>
 </div> -->
 
-<!-- <h1 align="center">Hi 👋, I'm Dishant Phandyal</h1>
+<h1 align="center">Hi 👋, I'm Dishant Phandyal</h1>
 
 <img
   align="center"
@@ -113,90 +113,6 @@
       alt="Resume"
     />
   </a>
-</div> -->
-
-<h1 align="center">Hi 👋, I'm Dishant Phandyal</h1>
-
-<img
-  align="center"
-  alt="coding banner"
-  width="100%"
-  src="img.png"
-/>
-
-<h3 align="center">Pursuing B.Tech in Computer Science (AI/ML)</h3>
-
-<br />
-
-<table>
-  <tr>
-    <td valign="center">
-      <ul>
-        <li>🔭 Currently working on <strong>Data Structures & Algorithms</strong></li>
-        <li>💬 Ask me about <strong>C, C++, HTML, CSS, JavaScript, C#</strong></li>
-        <li>🧰 Also familiar with <strong>Docker, Git, Python, .NET Framework</strong></li>
-        <li>📫 Reach me at <strong>dishantphandyal04@gmail.com</strong></li>
-        <li>⚡ <strong>Always ready to learn new things</strong></li>
-      </ul>
-    </td>
-    <td valign="center">
-      <img
-        alt="coding"
-        width="400"
-        src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"
-      />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dishant-phandyal-5ab86b2a0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/dishant._.0525" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/dishantphandyal1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/v63lkoc3vd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-</p>
-
-<br />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</p>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/dishant-phandyal/dishant-phandyal/blob/main/resume.pdf" target="_blank">
-    <img
-      src="https://img.shields.io/badge/ACCESS_RESUME-FF007F?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"
-      height="40"
-      alt="Resume"
-    />
-  </a>
-</div>
+</div> 
 
 
