@@ -55,7 +55,7 @@
 <img
   align="right"
   alt="Coding GIF"
-  width="150"
+  width="250"
   src="small-coding.gif"
 />
 
