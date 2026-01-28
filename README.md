@@ -56,7 +56,7 @@
   align="right"
   alt="Coding GIF"
   width="250"
-  src="small-coding.gif"
+  src="cat.gif"
 />
 
 <ul>
