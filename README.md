@@ -106,7 +106,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/dishant-phandyal/dishant-phandyal/blob/main/resume.pdf">
+  <a href="https://github.com/dishant-phandyal/dishant-phandyal/blob/main/resume01.pdf">
     <img
       src="https://img.shields.io/badge/ACCESS_RESUME-FF007F?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"
       height="40"
